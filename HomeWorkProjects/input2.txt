@@ -1,0 +1,19 @@
+inc brown
+inc fox
+getMaxKey
+getMinKey
+inc dog
+inc brown
+inc dog
+inc bark
+inc barks
+inc fox
+inc fox
+getMaxKey
+getMinKey
+printList 1
+printList 2
+dec bark
+dec dog
+printList 1
+printList 2

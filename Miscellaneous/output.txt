@@ -1,0 +1,49 @@
+
+Model: edwewf
+Brand: defer
+Series Number: 21231231
+Horse Power: 332
+Gas Per Kilometer: 214.0
+
+Printing time: 2024-06-22 18:47:09
+
+Horse Power: 323
+Gas Per Kilometer: 1.0
+
+Printing time: 2024-05-23 15:21:13
+ 3.0
+
+Printing time: 2024-05-23 15:10:53
+
+Model: dwded
+Brand: fwe
+Series Number: 223
+Horse Power: 32
+Gas Per Kilometer: 3.0
+
+
+Model: cfew
+Brand: ewew
+Series Number: 323
+Horse Power: 123
+Gas Per Kilometer: 3.0
+
+Printing time: 2024-05-23 15:12:10
+
+Model: 
+Brand: changedIt
+Series Number: 333333
+Horse Power: 212
+Gas Per Kilometer: 33.0
+
+Printing time: 2024-05-23 15:15:52
+
+Model: ver
+Brand: ver
+Series Number: 2147483647
+Horse Power: 1111
+Gas Per Kilometer: 2.0
+
+Printing time: 2024-05-23 15:16:58
+
+// Just wanted to see what's gonna happen if I write each time to the output file.

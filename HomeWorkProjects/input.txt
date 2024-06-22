@@ -1,0 +1,7 @@
+addNumber 1
+addNumber 4
+findMedian
+addNumber 2
+addNumber 5
+addNumber 3
+findMedian
