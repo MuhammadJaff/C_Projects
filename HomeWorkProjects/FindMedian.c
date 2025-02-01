@@ -7,7 +7,7 @@ double findMedian(int* numArray, int size); // defining function prototypes
 
 int main(){
     // puts("Bismillah");
-    FILE *input = fopen("input.txt","r"); // read mode is enough
+    FILE *input = fopen("inputFindMedian.txt","r"); // read mode is enough
 
     if(input == NULL){ // if any problem in opening file
         perror("Problem");
